@@ -4,10 +4,6 @@ A python script that generates a scam nitro QR code which can grab a victim's au
 
 *If you're interested in knowing the powerlevel configuration to get this prompt, you can contact me [here](https://instagram.com/witchstick).*
 
-<p align="center">
-<i>Love the tool? Please consider <strong>donating</strong> 💸 to help it improve!</i>
-</p>
-
 ## ❗ Disclaimer
 - **For Educational Purposes Only**
 - **We decline any responsability in case of misuse of this code.**
